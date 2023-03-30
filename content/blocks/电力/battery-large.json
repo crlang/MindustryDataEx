@@ -1,0 +1,5 @@
+{
+  "consumes": {
+    "powerBuffered": 500000
+  }
+}

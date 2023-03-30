@@ -1,0 +1,9 @@
+{
+  "outputItem": {
+    "item": "phase-fabric",
+    "amount": 10
+  },
+  "craftTime": 40,
+  "liquidCapacity": 80,
+  "itemCapacity": 80
+}

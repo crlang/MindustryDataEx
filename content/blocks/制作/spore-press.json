@@ -1,0 +1,8 @@
+{
+  "outputLiquid": {
+    "liquid": "oil",
+    "amount": 3
+  },
+  "craftTime": 10,
+  "liquidCapacity": 120
+}

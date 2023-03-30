@@ -1,0 +1,8 @@
+{
+  "outputLiquid": {
+    "liquid": "water",
+    "amount": 5
+  },
+  "drillTime": 60,
+  "liquidCapacity": 600
+}

@@ -1,0 +1,8 @@
+{
+  "outputLiquid": {
+    "liquid": "cryofluid",
+    "amount": 2
+  },
+  "craftTime": 40,
+  "liquidCapacity": 48
+}

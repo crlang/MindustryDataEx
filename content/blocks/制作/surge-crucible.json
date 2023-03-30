@@ -1,0 +1,9 @@
+{
+  "outputItem": {
+    "item": "surge-alloy",
+    "amount": 10
+  },
+  "craftTime": 60,
+  "liquidCapacity": 800,
+  "itemCapacity": 40
+}

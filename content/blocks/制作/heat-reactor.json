@@ -1,0 +1,8 @@
+{
+  "outputItem": {
+    "item": "fissile-matter",
+    "amount": 10
+  },
+  "craftTime": 100,
+  "itemCapacity": 40
+}

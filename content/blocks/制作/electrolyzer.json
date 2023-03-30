@@ -1,0 +1,14 @@
+{
+  "outputLiquids": [
+    {
+      "liquid": "ozone",
+      "amount": 0.4
+    },
+    {
+      "liquid": "hydrogen",
+      "amount": 0.6
+    }
+  ],
+  "craftTime": 10,
+  "liquidCapacity": 100
+}

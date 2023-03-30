@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "item": "sand",
+      "amount": 4
+    },
+    {
+      "item": "graphite",
+      "amount": 2
+    },
+    {
+      "item": "titanium",
+      "amount": 2
+    },
+    {
+      "item": "thorium",
+      "amount": 2
+    },
+    {
+      "item": "copper",
+      "amount": 1
+    },
+    {
+      "item": "lead",
+      "amount": 1
+    },
+    {
+      "item": "coal",
+      "amount": 1
+    },
+    {
+      "item": "silicon",
+      "amount": 1
+    },
+    {
+      "item": "plastanium",
+      "amount": 1
+    },
+    {
+      "item": "phase-fabric",
+      "amount": 1
+    },
+    {
+      "item": "surge-alloy",
+      "amount": 1
+    },
+    {
+      "item": "spore-pod",
+      "amount": 1
+    },
+    {
+      "item": "blast-compound",
+      "amount": 1
+    },
+    {
+      "item": "pyratite",
+      "amount": 1
+    },
+    {
+      "item": "metaglass",
+      "amount": 1
+    }
+  ],
+  "craftTime": 10,
+  "itemCapacity": 40
+}
