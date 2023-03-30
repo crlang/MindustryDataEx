@@ -1,38 +1,3 @@
-item.copper.name = 铜
-item.lead.name = 铅
-item.coal.name = 煤炭
-item.graphite.name = 石墨
-item.titanium.name = 钛
-item.thorium.name = 钍
-item.silicon.name = 硅
-item.plastanium.name = 塑钢
-item.phase-fabric.name = 相织布
-item.surge-alloy.name = 巨浪合金
-item.spore-pod.name = 孢子荚
-item.sand.name = 沙
-item.blast-compound.name = 爆炸混合物
-item.pyratite.name = 硫化物
-item.metaglass.name = 钢化玻璃
-item.scrap.name = 废料
-item.fissile-matter.name = 裂变产物
-item.beryllium.name = 铍
-item.tungsten.name = 钨
-item.oxide.name = 氧化物
-item.carbide.name = 碳化物
-item.dormant-cyst.name = 休眠囊肿
-
-liquid.water.name = 水
-liquid.slag.name = 矿渣
-liquid.oil.name = 石油
-liquid.cryofluid.name = 冷冻液
-liquid.neoplasm.name = 瘤液
-liquid.arkycite.name = 芳油
-liquid.gallium.name = 镓
-liquid.ozone.name = 臭氧
-liquid.hydrogen.name = 氢气
-liquid.nitrogen.name = 氮气
-liquid.cyanogen.name = 氰气
-
 解释来源
 
 https://www.bilibili.com/read/readlist/rl451504
@@ -251,6 +216,39 @@ https://mindustrygame.github.io/wiki/
 
 > liquidPressure: 更高的数字增加液体输出速度； TODO 移除并更换更好的液体系统
 
-> pumpAmount: 描述
+### 物品对照
 
-> pumpAmount: 描述
+item.copper.name = 铜
+item.lead.name = 铅
+item.coal.name = 煤炭
+item.graphite.name = 石墨
+item.titanium.name = 钛
+item.thorium.name = 钍
+item.silicon.name = 硅
+item.plastanium.name = 塑钢
+item.phase-fabric.name = 相织布
+item.surge-alloy.name = 巨浪合金
+item.spore-pod.name = 孢子荚
+item.sand.name = 沙
+item.blast-compound.name = 爆炸混合物
+item.pyratite.name = 硫化物
+item.metaglass.name = 钢化玻璃
+item.scrap.name = 废料
+item.fissile-matter.name = 裂变产物
+item.beryllium.name = 铍
+item.tungsten.name = 钨
+item.oxide.name = 氧化物
+item.carbide.name = 碳化物
+item.dormant-cyst.name = 休眠囊肿
+
+liquid.water.name = 水
+liquid.slag.name = 矿渣
+liquid.oil.name = 石油
+liquid.cryofluid.name = 冷冻液
+liquid.neoplasm.name = 瘤液
+liquid.arkycite.name = 芳油
+liquid.gallium.name = 镓
+liquid.ozone.name = 臭氧
+liquid.hydrogen.name = 氢气
+liquid.nitrogen.name = 氮气
+liquid.cyanogen.name = 氰气

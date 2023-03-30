@@ -1,8 +1,8 @@
 {
   "name": "MindustryDataEx",
   "displayName": "MindustryDataEx",
-  "author": "Darlang",
-  "version": "0.0.1",
+  "author": "crlang",
+  "version": "0.0.2",
   "minGameVersion": "142",
   "description": "对原生基础数据进行了相当的调整"
 }
