@@ -1,0 +1,12 @@
+{
+  "plans": [
+    {
+      "unit": "risso",
+      "time": 90
+    },
+    {
+      "unit": "retusa",
+      "time": 60
+    }
+  ]
+}

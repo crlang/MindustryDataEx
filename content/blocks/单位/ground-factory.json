@@ -1,0 +1,16 @@
+{
+  "plans": [
+    {
+      "unit": "dagger",
+      "time": 90
+    },
+    {
+      "unit": "crawler",
+      "time": 60
+    },
+    {
+      "unit": "nova",
+      "time": 240
+    }
+  ]
+}

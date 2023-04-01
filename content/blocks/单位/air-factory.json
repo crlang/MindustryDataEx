@@ -1,0 +1,12 @@
+{
+  "plans": [
+    {
+      "unit": "flare",
+      "time": 90
+    },
+    {
+      "unit": "mono",
+      "time": 210
+    }
+  ]
+}

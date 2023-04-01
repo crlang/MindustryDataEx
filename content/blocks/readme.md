@@ -216,6 +216,36 @@ https://mindustrygame.github.io/wiki/
 
 > liquidPressure: 更高的数字增加液体输出速度； TODO 移除并更换更好的液体系统
 
+# 单位工厂
+
+## 地面单位工厂 -> UnitFactory/单位工厂
+
+> plans.unit: 生产的单位
+
+> plans.time: 生产时间
+
+> plans.requirements: 生产所消耗的物资
+
+# 重构工厂
+
+## tankAssembler/坦克装配厂 -> UnitAssembler/装配工厂
+
+> droneType: 用来装载的单位
+
+> dronesCreated: 装载单位数量
+
+> droneConstructTime: 装载单位被制造耗时
+
+> areaSize: 建造区域边长
+
+## 倍乘级单位重构工厂 -> Reconstructor/重构工厂
+
+> constructTime: 升级时间
+
+> upgrades.\*.0: 升级前机甲
+
+> upgrades.\*.1: 升级后机甲
+
 ### 物品对照
 
 item.copper.name = 铜
@@ -252,3 +282,65 @@ liquid.ozone.name = 臭氧
 liquid.hydrogen.name = 氢气
 liquid.nitrogen.name = 氮气
 liquid.cyanogen.name = 氰气
+
+unit.dagger.name = 尖刀
+unit.mace.name = 战锤
+unit.fortress.name = 堡垒
+unit.nova.name = 新星
+unit.pulsar.name = 恒星
+unit.quasar.name = 耀星
+unit.crawler.name = 爬虫
+unit.atrax.name = 毒蛛
+unit.spiroct.name = 血蛭
+unit.arkyid.name = 毒蛊
+unit.toxopid.name = 天蝎
+unit.flare.name = 星辉
+unit.horizon.name = 天垠
+unit.zenith.name = 苍穹
+unit.antumbra.name = 月影
+unit.eclipse.name = 日蚀
+unit.mono.name = 独影
+unit.poly.name = 幻型
+unit.mega.name = 巨像
+unit.quad.name = 雷霆
+unit.oct.name = 要塞
+unit.risso.name = 梭鱼
+unit.minke.name = 飞鲨
+unit.bryde.name = 戟鲸
+unit.sei.name = 蛟龙
+unit.omura.name = 海神
+unit.retusa.name = 潜螺
+unit.oxynoe.name = 电鳗
+unit.cyerce.name = 江豚
+unit.aegires.name = 玄武
+unit.navanax.name = 龙王
+unit.alpha.name = 阿尔法
+unit.beta.name = 贝塔
+unit.gamma.name = 伽马
+unit.scepter.name = 权杖
+unit.reign.name = 王座
+unit.vela.name = 灾星
+unit.corvus.name = 死星
+
+unit.stell.name = 围护
+unit.locus.name = 循迹
+unit.precept.name = 准绳
+unit.vanquish.name = 征服
+unit.conquer.name = 领主
+unit.merui.name = 天守
+unit.cleroi.name = 天赐
+unit.anthicus.name = 天灾
+unit.tecta.name = 天理
+unit.collaris.name = 天帝
+unit.elude.name = 挣脱
+unit.avert.name = 遮蔽
+unit.obviate.name = 消散
+unit.quell.name = 遏止
+unit.disrupt.name = 悲怆
+unit.evoke.name = 苏醒
+unit.incite.name = 策动
+unit.emanate.name = 发散
+unit.manifold.name = 货运无人机
+unit.assembly-drone.name = 装配无人机
+unit.latum.name = Latum
+unit.renale.name = Renale
