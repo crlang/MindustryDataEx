@@ -92,43 +92,43 @@ itemCapacity(载量)： 120 -> 240
 
 ### block.duct.name = 物品管道
 
-speed(传输速度)： 4 -> 8
+speed(传输速度)： 4 -> 1
 
 ==========
 
 ### block.armored-duct.name = 装甲管道
 
-speed(传输速度)： 4 -> 8
+speed(传输速度)： 4 -> 1
 
 ==========
 
 ### block.duct-router.name = 物品管道路由器
 
-speed(传输速度)： 4 -> 8
+speed(传输速度)： 4 -> 1
 
 ==========
 
 ### block.overflow-duct.name = 溢流管道
 
-speed(传输速度)： 4 -> 8
+speed(传输速度)： 4 -> 1
 
 ==========
 
 ### block.underflow-duct.name = 反向溢流管
 
-speed(传输速度)： 4 -> 8
+speed(传输速度)： 4 -> 1
 
 ==========
 
 ### block.duct-bridge.name = 物品管道桥
 
-speed(传输速度)： 4 -> 8
+speed(传输速度)： 4 -> 1
 
 ==========
 
 ### block.duct-unloader.name = 管道装卸器
 
-speed(传输速度)： 4 -> 8
+speed(传输速度)： 4 -> 1
 
 ==========
 
