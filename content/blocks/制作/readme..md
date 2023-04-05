@@ -230,9 +230,9 @@ itemCapacity(载量)： 30 -> 60
 
 drillTime(工艺时间)： 10 -> 10
 
-outputLiquids.ozone(臭氧)： 4 / 60 -> 0.4
+outputLiquids.ozone(臭氧)： 4 / 60 -> 10
 
-outputLiquids.hydrogen(氢气)： 6 / 60 -> 0.6
+outputLiquids.hydrogen(氢气)： 6 / 60 -> 10
 
 liquidCapacity(液体量)： 50 -> 100
 
@@ -240,7 +240,7 @@ liquidCapacity(液体量)： 50 -> 100
 
 ### block.atmospheric-concentrator.name = 大气收集器
 
-outputLiquid.nitrogen(氮气)： 4 / 60 -> 0.66
+outputLiquid.nitrogen(氮气)： 4 / 60 -> 10
 
 liquidCapacity(液体量)： 40 -> 80
 
@@ -260,7 +260,7 @@ liquidCapacity(液体量)： 30 -> 60
 
 heatOutput(热能)： 3 -> 30
 
-itemCapacity(载量)： 0 -> 0
+itemCapacity(载量)： 0 -> 10
 
 ==========
 
@@ -268,7 +268,7 @@ itemCapacity(载量)： 0 -> 0
 
 heatOutput(热能)： 8 -> 80
 
-itemCapacity(载量)： 0 -> 0
+itemCapacity(载量)： 0 -> 10
 
 liquidCapacity(液体量)： 40 -> 80
 
@@ -276,9 +276,9 @@ liquidCapacity(液体量)： 40 -> 80
 
 ### block.phase-heater.name = 相织制热机
 
-drillTime(工艺时间)： 480 ->
+drillTime(工艺时间)： 480 -> 80
 
-heatOutput(热能)： 15 ->
+heatOutput(热能)： 15 -> 150
 
 ==========
 
@@ -298,7 +298,7 @@ heatOutput(热能)： 15 ->
 
 drillTime(工艺时间)： 135 -> 25
 
-outputItem.carbide(碳化物)： 1 ->
+outputItem.carbide(碳化物)： 1 -> 10
 
 itemCapacity(载量)： 20 -> 40
 
@@ -308,7 +308,7 @@ itemCapacity(载量)： 20 -> 40
 
 drillTime(工艺时间)： 120 -> 40
 
-outputLiquid.gallium(镓)： 1 / 60 ->
+outputLiquid.gallium(镓)： 1 / 60 -> 10
 
 liquidCapacity(液体量)： 80 -> 160
 
@@ -328,7 +328,7 @@ itemCapacity(载量)： 20 -> 40
 
 ### block.cyanogen-synthesizer.name = 氰合成机
 
-outputLiquid.cyanogen(氰气)： 3 / 60 -> 0.5
+outputLiquid.cyanogen(氰气)： 3 / 60 -> 1
 
 liquidCapacity(液体量)： 80 -> 160
 
@@ -338,7 +338,7 @@ liquidCapacity(液体量)： 80 -> 160
 
 drillTime(工艺时间)： 120 -> 40
 
-outputItem.phase-fabric(相织布)： 1 -> 0
+outputItem.phase-fabric(相织布)： 1 -> 10
 
 liquidCapacity(液体量)： 40 -> 80
 
