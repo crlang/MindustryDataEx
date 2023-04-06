@@ -55,20 +55,8 @@
   "shootSound": "shootAlt",
   "consumeAmmoOnce": false,
   "shoot": {
-    "shots": 6,
-    "shotDelay": 13,
-    "type": "ShootBarrel",
-    "barrels": [
-      0,
-      12,
-      0,
-      6.75,
-      0,
-      0,
-      -6.75,
-      0,
-      0
-    ]
+    "shots": 2,
+    "shotDelay": 20
   },
   "shootY": 0,
   "ammoUseEffect": "none",
@@ -77,7 +65,7 @@
   "shootCone": 360,
   "shake": 1,
   "maxAmmo": 24,
-  "ammoPerShot": 2,
+  "ammoPerShot": 20,
   "recoilTime": 22,
   "recoil": 3,
   "ammoTypes": {
@@ -94,6 +82,8 @@
       "pierce": true,
       "pierceBuilding": true,
       "pierceCap": 5,
+      "splashDamageRadius": 200,
+      "splashDamage": 60,
       "backColor": "b1dd7e",
       "frontColor": "ffffff",
       "trailColor": "b1dd7e",
