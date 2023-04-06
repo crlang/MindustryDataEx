@@ -34,7 +34,7 @@
 
 ### block.breach.name = 撕裂
 
-range(范围)： 180 -> 3600
+range(范围)： 180 -> 180
 
 ### block.diffuse.name = 扩散
 
