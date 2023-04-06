@@ -53,3 +53,5 @@ range(范围)： 180 -> 180
 ### block.smite.name = 天谴
 
 ### block.malign.name = 魔灵
+
+### block.MindustryDataEx-崩坏.name = 崩坏
