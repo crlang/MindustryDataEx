@@ -2,7 +2,7 @@
   "name": "MindustryDataEx",
   "displayName": "MindustryDataEx",
   "author": "crlang",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "minGameVersion": "142",
-  "description": "[0.0.6]对原生基础数据进行了相当的调整"
+  "description": "[0.0.7]对原生基础数据进行了相当的调整"
 }
