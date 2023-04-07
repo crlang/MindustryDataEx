@@ -1,0 +1,75 @@
+{
+  "type": "ItemTurret",
+  "name": "多管炮",
+  "description": "升级版双管，能在短时间内倾泻火力",
+  "health": 5000,
+  "size": 1,
+  "armor": 500,
+  "reload": 40,
+  "range": 2400,
+  "maxAmmo": 120,
+  "ammoPerShot": 1,
+  "consumes": {
+    "coolant": {
+      "amount": 0.1,
+      "optional": true
+    }
+  },
+  "shoot": {
+    "shots": 12,
+    "shotDelay": 3,
+    "type": "ShootAlternate",
+    "barrels": 1,
+    "spread": 2
+  },
+  "xRand": 1,
+  "ammoUseEffect": "none",
+  "inaccuracy": 1,
+  "rotateSpeed": 12,
+  "shake": 1,
+  "ammoTypes": {
+    "copper": {
+      "speed": 6,
+      "damage": 1000,
+      "lifetime": 600,
+      "width": 7,
+      "height": 8,
+      "buildingDamageMultiplier": 0.1,
+      "ammoMultiplier": 2,
+      "shootEffect": "shootSmall"
+    },
+    "graphite": {
+      "reloadMultiplier": 0.5,
+      "buildingDamageMultiplier": 0.1,
+      "speed": 6,
+      "damage": 2000,
+      "lifetime": 900,
+      "width": 7,
+      "height": 8,
+      "ammoMultiplier": 4,
+      "shootEffect": "shootSmall"
+    },
+    "silicon": {
+      "speed": 6,
+      "damage": 3000,
+      "reloadMultiplier": 1.6,
+      "buildingDamageMultiplier": 0.1,
+      "lifetime": 1200,
+      "width": 7,
+      "height": 8,
+      "shootEffect": "shootSmall",
+      "homingRange": 40,
+      "homingPower": 0.06,
+      "ammoMultiplier": 5
+    }
+  },
+  "researchCostMultiplier": 0.5,
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 25
+    }
+  ],
+  "category": "turret",
+  "research": "duo"
+}
