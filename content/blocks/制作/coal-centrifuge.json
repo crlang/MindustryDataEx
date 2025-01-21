@@ -3,5 +3,6 @@
     "item": "coal",
     "amount": 10
   },
-  "craftTime": 15
+  "craftTime": 3,
+  "itemCapacity": 100
 }

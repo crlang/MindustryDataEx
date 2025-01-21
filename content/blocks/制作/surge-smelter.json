@@ -3,6 +3,6 @@
     "item": "surge-alloy",
     "amount": 10
   },
-  "craftTime": 15,
-  "itemCapacity": 40
+  "craftTime": 7.5,
+  "itemCapacity": 200
 }

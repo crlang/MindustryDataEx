@@ -2,13 +2,13 @@
   "outputLiquids": [
     {
       "liquid": "ozone",
-      "amount": 10
+      "amount": 1
     },
     {
       "liquid": "hydrogen",
-      "amount": 10
+      "amount": 1
     }
   ],
-  "craftTime": 10,
-  "liquidCapacity": 100
+  "craftTime": 1,
+  "liquidCapacity": 500
 }

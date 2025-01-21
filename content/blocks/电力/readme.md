@@ -30,37 +30,55 @@ powerBuffered(电力容量)： 50000 -> 500000
 
 ### block.combustion-generator.name = 火力发电机
 
+powerProduction(电力产量)： 1 -> 100
+
 ==========
 
 ### block.thermal-generator.name = 热能发电机
+
+powerProduction(电力产量)： 1.8 -> 180
 
 ==========
 
 ### block.steam-generator.name = 涡轮发电机
 
+powerProduction(电力产量)： 5.5 -> 550
+
 ==========
 
 ### block.differential-generator.name = 温差发电机
+
+powerProduction(电力产量)： 18 -> 1800
 
 ==========
 
 ### block.rtg-generator.name = RTG 发电机
 
+powerProduction(电力产量)： 4.5 -> 450
+
 ==========
 
 ### block.solar-panel.name = 太阳能板
+
+powerProduction(电力产量)： 0.1 -> 10
 
 ==========
 
 ### block.solar-panel-large.name = 大型太阳能板
 
+powerProduction(电力产量)： 1.6 -> 160
+
 ==========
 
 ### block.thorium-reactor.name = 钍反应堆
 
+powerProduction(电力产量)： 15 -> 1500
+
 ==========
 
 ### block.impact-reactor.name = 冲击反应堆
+
+powerProduction(电力产量)： 130 -> 13000
 
 ==========
 
@@ -78,21 +96,31 @@ powerBuffered(电力容量)： 50000 -> 500000
 
 ### block.turbine-condenser.name = 涡轮冷凝器
 
+powerProduction(电力产量)： 3/9 -> 33
+
 ==========
 
 ### block.chemical-combustion-chamber.name = 化学燃烧室
+
+powerProduction(电力产量)： 10 -> 1000
 
 ==========
 
 ### block.pyrolysis-generator.name = 热解发生器
 
+powerProduction(电力产量)： 25 -> 2500
+
 ==========
 
 ### block.flux-reactor.name = 通量反应堆
 
+powerProduction(电力产量)： 240 -> 24000
+
 ==========
 
 ### block.neoplasia-reactor.name = 瘤变反应堆
+
+powerProduction(电力产量)： 140 -> 14000
 
 ==========
 

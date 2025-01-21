@@ -3,6 +3,7 @@
     "item": "oxide",
     "amount": 10
   },
-  "craftTime": 30,
-  "liquidCapacity": 60
+  "craftTime": 12,
+  "liquidCapacity": 300,
+  "itemCapacity": 100
 }

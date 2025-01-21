@@ -1,4 +1,5 @@
 {
   "speed": 0.8,
-  "displayedSpeed": 22
+  "displayedSpeed": 110,
+  "itemCapacity": 100
 }

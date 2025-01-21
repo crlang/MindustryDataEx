@@ -3,6 +3,6 @@
     "item": "silicon",
     "amount": 40
   },
-  "craftTime": 10,
-  "itemCapacity": 60
+  "craftTime": 5,
+  "itemCapacity": 300
 }

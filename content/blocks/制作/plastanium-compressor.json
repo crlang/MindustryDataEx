@@ -3,6 +3,7 @@
     "item": "plastanium",
     "amount": 10
   },
-  "craftTime": 10,
-  "liquidCapacity": 120
+  "craftTime": 6,
+  "liquidCapacity": 600,
+  "itemCapacity": 100
 }

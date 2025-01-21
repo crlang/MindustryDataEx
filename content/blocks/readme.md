@@ -1,8 +1,12 @@
 解释来源
 
-https://www.bilibili.com/read/readlist/rl451504
+> https://www.bilibili.com/read/readlist/rl451504
+> https://mindustrygame.github.io/wiki/
 
-https://mindustrygame.github.io/wiki/
+数据来源
+
+> https://github.com/Anuken/Mindustry/tree/master/core/src/mindustry/content/Blocks.java
+> https://github.com/Anuken/Mindustry/tree/master/core/assets/bundles/bundle_zh_CN.properties
 
 # 物品
 

@@ -2,19 +2,19 @@
   "results": [
     {
       "item": "sand",
-      "amount": 4
+      "amount": 20
     },
     {
       "item": "graphite",
-      "amount": 2
+      "amount": 10
     },
     {
       "item": "titanium",
-      "amount": 2
+      "amount": 10
     },
     {
       "item": "thorium",
-      "amount": 2
+      "amount": 10
     },
     {
       "item": "copper",
@@ -61,6 +61,6 @@
       "amount": 1
     }
   ],
-  "craftTime": 10,
-  "itemCapacity": 40
+  "craftTime": 1.5,
+  "itemCapacity": 200
 }

@@ -2,19 +2,19 @@
   "results": [
     {
       "item": "copper",
-      "amount": 10
+      "amount": 50
     },
     {
       "item": "lead",
-      "amount": 6
+      "amount": 30
     },
     {
       "item": "graphite",
-      "amount": 4
+      "amount": 20
     },
     {
       "item": "titanium",
-      "amount": 4
+      "amount": 20
     },
     {
       "item": "coal",
@@ -59,7 +59,12 @@
     {
       "item": "metaglass",
       "amount": 1
+    },
+    {
+      "item": "gallium",
+      "amount": 1
     }
   ],
-  "craftTime": 15
+  "craftTime": 3.5,
+  "itemCapacity": 100
 }

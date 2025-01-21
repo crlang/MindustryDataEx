@@ -1,5 +1,4 @@
 {
   "heatOutput": 80,
-  "liquidCapacity": 80,
-  "itemCapacity": 10
+  "liquidCapacity": 400
 }

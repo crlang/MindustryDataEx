@@ -3,5 +3,6 @@
     "item": "metaglass",
     "amount": 10
   },
-  "craftTime": 10
+  "craftTime": 3,
+  "itemCapacity": 100
 }

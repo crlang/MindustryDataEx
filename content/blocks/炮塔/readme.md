@@ -55,3 +55,5 @@ range(范围)： 180 -> 180
 ### block.malign.name = 魔灵
 
 ### block.MindustryDataEx-崩坏.name = 崩坏
+
+### block.MindustryDataEx-多管炮.name = 多管炮

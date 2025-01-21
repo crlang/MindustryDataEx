@@ -1,5 +1,4 @@
 {
-  "range": 660,
-  "reload": 250,
-  "itemCapacity": 240
+  "reload": 20,
+  "itemCapacity": 1200
 }

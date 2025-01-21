@@ -2,5 +2,6 @@
   "outputItem": {
     "item": "pyratite",
     "amount": 10
-  }
+  },
+  "itemCapacity": 100
 }

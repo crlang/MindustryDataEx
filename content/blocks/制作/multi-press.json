@@ -3,6 +3,6 @@
     "item": "graphite",
     "amount": 20
   },
-  "craftTime": 10,
-  "itemCapacity": 40
+  "craftTime": 3,
+  "itemCapacity": 200
 }

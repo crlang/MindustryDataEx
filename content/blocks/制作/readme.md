@@ -2,85 +2,95 @@
 
 ### block.graphite-press.name = 石墨压缩机
 
-drillTime(工艺时间)： 90 -> 30
+drillTime(工艺时间)： 90 -> 9
 
 outputItem.graphite(石墨)： 1 -> 10
+
+itemCapacity(载量)： 10 -> 100
 
 ==========
 
 ### block.multi-press.name = 多重压缩机
 
-drillTime(工艺时间)： 30 -> 10
+drillTime(工艺时间)： 30 -> 3
 
 outputItem.graphite(石墨)： 2 -> 20
 
-itemCapacity(载量)： 20 -> 40
+itemCapacity(载量)： 20 -> 200
 
 ==========
 
 ### block.silicon-smelter.name = 硅冶炼厂
 
-drillTime(工艺时间)： 40 -> 10
+drillTime(工艺时间)： 40 -> 4
 
 outputItem.silicon(硅)： 1 -> 10
+
+itemCapacity(载量)： 10 -> 100
 
 ==========
 
 ### block.silicon-crucible.name = 热能坩埚
 
-drillTime(工艺时间)： 90 -> 30
+drillTime(工艺时间)： 90 -> 9
 
 outputItem.silicon(硅)： 8 -> 80
 
-itemCapacity(载量)： 30 -> 60
+itemCapacity(载量)： 30 -> 300
 
 ==========
 
 ### block.kiln.name = 窑炉
 
-drillTime(工艺时间)： 30 -> 10
+drillTime(工艺时间)： 30 -> 3
 
 outputItem.metaglass(钢化玻璃)： 1 -> 10
+
+itemCapacity(载量)： 10 -> 100
 
 ==========
 
 ### block.plastanium-compressor.name = 塑钢压缩机
 
-drillTime(工艺时间)： 60 -> 10
+drillTime(工艺时间)： 60 -> 6
 
 outputItem.plastanium(塑钢)： 1 -> 10
 
-liquidCapacity(液体量)： 60 -> 120
+liquidCapacity(液体量)： 60 -> 600
+
+itemCapacity(载量)： 10 -> 100
 
 ==========
 
 ### block.phase-weaver.name = 相织布编织器
 
-drillTime(工艺时间)： 120 -> 40
+drillTime(工艺时间)： 120 -> 12
 
 outputItem.phase-fabric(相织布)： 1 -> 10
 
-itemCapacity(载量)： 20 -> 40
+itemCapacity(载量)： 30 -> 300
 
 ==========
 
 ### block.surge-smelter.name = 合金冶炼厂
 
-drillTime(工艺时间)： 75 -> 15
+drillTime(工艺时间)： 75 -> 7.5
 
 outputItem.surge-alloy(巨浪合金)： 1 -> 10
 
-itemCapacity(载量)： 20 -> 40
+itemCapacity(载量)： 20 -> 200
 
 ==========
 
 ### block.cryofluid-mixer.name = 冷冻液混合器
 
-drillTime(工艺时间)： 120 -> 40
+drillTime(工艺时间)： 120 -> 12
 
 outputLiquid.cryofluid(冷冻液)： 12 / 60 -> 2
 
-liquidCapacity(液体量)： 24 -> 48
+liquidCapacity(液体量)： 24 -> 240
+
+itemCapacity(载量)： 10 -> 100
 
 ==========
 
@@ -88,35 +98,43 @@ liquidCapacity(液体量)： 24 -> 48
 
 outputItem.pyratite(硫化物)： 1 -> 10
 
+itemCapacity(载量)： 10 -> 100
+
 ==========
 
 ### block.blast-mixer.name = 爆炸物混合器
 
 outputItem.blast-compound(爆炸物)： 1 -> 10
 
+itemCapacity(载量)： 10 -> 100
+
 ==========
 
 ### block.melter.name = 熔炉
 
-drillTime(工艺时间)： 10 -> 10
+drillTime(工艺时间)： 10 -> 1
 
 outputLiquid.slag(矿渣)： 12 / 60 -> 2
+
+itemCapacity(载量)： 10 -> 100
 
 ==========
 
 ### block.separator.name = 分离机
 
-drillTime(工艺时间)： 35 -> 15
+drillTime(工艺时间)： 35 -> 3.5
+
+itemCapacity(载量)： 10 -> 100
 
 基础
 
-results.copper(铜)： 5 -> 10
+results.copper(铜)： 5 -> 50
 
-results.lead(铅)： 3 -> 6
+results.lead(铅)： 3 -> 30
 
-results.graphite(石墨)： 2 -> 4
+results.graphite(石墨)： 2 -> 20
 
-results.titanium(钛)： 2 -> 4
+results.titanium(钛)： 2 -> 20
 
 拓展
 
@@ -146,19 +164,19 @@ results.metaglass(钢化玻璃)： 0 -> 1
 
 ### block.disassembler.name = 解离机
 
-drillTime(工艺时间)： 15 -> 10
+drillTime(工艺时间)： 15 -> 1.5
 
-itemCapacity(载量)： 20 -> 40
+itemCapacity(载量)： 20 -> 200
 
 基础
 
-results.sand(沙)： 2 -> 4
+results.sand(沙)： 2 -> 20
 
-results.graphite(石墨)：1 -> 2
+results.graphite(石墨)：1 -> 10
 
-results.titanium(钛)： 1 -> 2
+results.titanium(钛)： 1 -> 10
 
-results.thorium(钍)： 1 -> 2
+results.thorium(钍)： 1 -> 10
 
 拓展
 
@@ -188,27 +206,33 @@ results.metaglass(钢化玻璃)： 0 -> 1
 
 ### block.spore-press.name = 孢子压缩机
 
-drillTime(工艺时间)： 20 -> 10
+drillTime(工艺时间)： 20 -> 2
 
 outputLiquid.oil(石油)： 18 / 60 -> 3
 
-liquidCapacity(液体量)： 60 -> 120
+liquidCapacity(液体量)： 60 -> 600
+
+itemCapacity(载量)： 10 -> 100
 
 ==========
 
 ### block.pulverizer.name = 粉碎机
 
-drillTime(工艺时间)： 40 -> 20
+drillTime(工艺时间)： 40 -> 4
 
 outputItem.sand(沙子)： 1 -> 10
+
+itemCapacity(载量)： 10 -> 100
 
 ==========
 
 ### block.coal-centrifuge.name = 煤炭离心机
 
-drillTime(工艺时间)： 30 -> 15
+drillTime(工艺时间)： 30 -> 3
 
 outputItem.coal(煤炭)： 1 -> 10
+
+itemCapacity(载量)： 10 -> 100
 
 ==========
 
@@ -218,41 +242,43 @@ outputItem.coal(煤炭)： 1 -> 10
 
 ### block.silicon-arc-furnace.name = 电弧硅炉
 
-drillTime(工艺时间)： 50 -> 10
+drillTime(工艺时间)： 50 -> 5
 
 outputItem.silicon(硅)： 4 -> 40
 
-itemCapacity(载量)： 30 -> 60
+itemCapacity(载量)： 30 -> 300
 
 ==========
 
 ### block.electrolyzer.name = 电解机
 
-drillTime(工艺时间)： 10 -> 10
+drillTime(工艺时间)： 10 -> 1
 
-outputLiquids.ozone(臭氧)： 4 / 60 -> 10
+outputLiquids.ozone(臭氧)： 4 / 60 -> 1
 
-outputLiquids.hydrogen(氢气)： 6 / 60 -> 10
+outputLiquids.hydrogen(氢气)： 6 / 60 -> 1
 
-liquidCapacity(液体量)： 50 -> 100
+liquidCapacity(液体量)： 50 -> 500
 
 ==========
 
 ### block.atmospheric-concentrator.name = 大气收集器
 
-outputLiquid.nitrogen(氮气)： 4 / 60 -> 10
+outputLiquid.nitrogen(氮气)： 4 / 60 -> 1
 
-liquidCapacity(液体量)： 40 -> 80
+liquidCapacity(液体量)： 40 -> 400
 
 ==========
 
 ### block.oxidation-chamber.name = 氧化室
 
-drillTime(工艺时间)： 120 -> 30
+drillTime(工艺时间)： 120 -> 12
 
 outputItem.oxide(氧化物)： 1 -> 10
 
-liquidCapacity(液体量)： 30 -> 60
+liquidCapacity(液体量)： 30 -> 300
+
+itemCapacity(载量)： 10 -> 100
 
 ==========
 
@@ -260,23 +286,19 @@ liquidCapacity(液体量)： 30 -> 60
 
 heatOutput(热能)： 3 -> 30
 
-itemCapacity(载量)： 0 -> 10
-
 ==========
 
 ### block.slag-heater.name = 矿渣制热机
 
 heatOutput(热能)： 8 -> 80
 
-itemCapacity(载量)： 0 -> 10
-
-liquidCapacity(液体量)： 40 -> 80
+liquidCapacity(液体量)： 40 -> 400
 
 ==========
 
 ### block.phase-heater.name = 相织制热机
 
-drillTime(工艺时间)： 480 -> 80
+drillTime(工艺时间)： 480 -> 48
 
 heatOutput(热能)： 15 -> 150
 
@@ -296,33 +318,33 @@ heatOutput(热能)： 15 -> 150
 
 ### block.carbide-crucible.name = 碳化物坩埚
 
-drillTime(工艺时间)： 135 -> 25
+drillTime(工艺时间)： 135 -> 13.5
 
 outputItem.carbide(碳化物)： 1 -> 10
 
-itemCapacity(载量)： 20 -> 40
+itemCapacity(载量)： 20 -> 200
 
 ==========
 
 ### block.slag-centrifuge.name = 矿渣离心机
 
-drillTime(工艺时间)： 120 -> 40
+drillTime(工艺时间)： 120 -> 12
 
-outputLiquid.gallium(镓)： 1 / 60 -> 10
+outputLiquid.gallium(镓)： 1 / 60 -> 1
 
-liquidCapacity(液体量)： 80 -> 160
+liquidCapacity(液体量)： 80 -> 800
 
 ==========
 
 ### block.surge-crucible.name = 合金坩埚
 
-drillTime(工艺时间)： 180 -> 60
+drillTime(工艺时间)： 180 -> 18
 
 outputItem.surge-alloy(巨浪合金)： 1 -> 10
 
-liquidCapacity(液体量)： 400 -> 800
+liquidCapacity(液体量)： 400 -> 4000
 
-itemCapacity(载量)： 20 -> 40
+itemCapacity(载量)： 20 -> 200
 
 ==========
 
@@ -330,29 +352,29 @@ itemCapacity(载量)： 20 -> 40
 
 outputLiquid.cyanogen(氰气)： 3 / 60 -> 1
 
-liquidCapacity(液体量)： 80 -> 160
+liquidCapacity(液体量)： 80 -> 800
 
 ==========
 
 ### block.phase-synthesizer.name = 相织布合成机
 
-drillTime(工艺时间)： 120 -> 40
+drillTime(工艺时间)： 120 -> 12
 
 outputItem.phase-fabric(相织布)： 1 -> 10
 
-liquidCapacity(液体量)： 40 -> 80
+liquidCapacity(液体量)： 40 -> 400
 
-itemCapacity(载量)： 40 -> 80
+itemCapacity(载量)： 40 -> 400
 
 ==========
 
 ### block.heat-reactor.name = 热量反应堆
 
-drillTime(工艺时间)： 600 -> 100
+drillTime(工艺时间)： 600 -> 60
 
 outputItem.fissile-matter(裂变产物)： 1 -> 10
 
-itemCapacity(载量)： 20 -> 40
+itemCapacity(载量)： 20 -> 200
 
 ==========
 

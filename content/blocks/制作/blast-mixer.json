@@ -2,5 +2,6 @@
   "outputItem": {
     "item": "blast-compound",
     "amount": 10
-  }
+  },
+  "itemCapacity": 10
 }

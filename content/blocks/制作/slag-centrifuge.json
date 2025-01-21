@@ -1,8 +1,8 @@
 {
   "outputLiquid": {
     "liquid": "gallium",
-    "amount": 10
+    "amount": 1
   },
-  "craftTime": 40,
-  "liquidCapacity": 160
+  "craftTime": 12,
+  "liquidCapacity": 800
 }

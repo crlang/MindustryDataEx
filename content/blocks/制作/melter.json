@@ -3,5 +3,6 @@
     "liquid": "slag",
     "amount": 2
   },
-  "craftTime": 10
+  "craftTime": 1,
+  "itemCapacity": 100
 }
